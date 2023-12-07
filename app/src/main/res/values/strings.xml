@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laba</string>
+    <string name="button_text">Нажми на меня</string>
+    <string name="textview">TextView</string>
+</resources>
